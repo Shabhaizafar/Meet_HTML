@@ -1,0 +1,60 @@
+=> Web Development : 
+    - Website
+    - WebApp 
+
+    Basic  : 
+        1. HTML    --> Hyper Text Markup Language    (Structure)
+        2. CSS     --> Cascading Style Sheet         (Design)
+        3. JS      --> JavaScript                    (Functionality)
+
+
+Job  : 
+1. Front-end Developer 
+    - HTML,CSS,JS,React,Bootstrap5 etc
+
+2. Back-end Developer : 
+    - Python,Java,CPP,NodeJS,.net  etc
+
+3. Fullstack Developer :  
+    - Front-end + Back-end  + DB(Database)
+
+4. Software Engineer :
+    - Programming Language
+
+5. MERN Stack Developer
+
+6. MEAN Stack Developer
+
+---------------------------------
+=> What is HTML ? 
+-> HTML stands for Hyper Text Markup Language.
+
+=> USE : 
+-> Create a Structure of Website/Webpage.
+        Webpage : Single HTML file
+        Website : Collection of Multiple Webpages(HTML Files).
+
+
+        1. Hyper Text
+                - Hyper : Hype  (depands on Content)
+                - Text  : Content (texture,images,videos etc )
+        2. Markup Language.
+                text-enoding System  (UTF-8)
+
+                <img src="link">  emoji : code  
+
+
+
+                1+1 = 2
+
+                1+1   1+1
+----------------------------------------------
+HTML extension : 
+    1. .html (new)
+    2. .htm (older)
+----------------------------------------------
+Download VS Code extensions : 
+- live Server (bottom+right Corner)
+- Live Preview (Top+right Corner)
+
+
