@@ -49,12 +49,68 @@ Job  :
 
                 1+1   1+1
 ----------------------------------------------
-HTML extension : 
+=> HTML extension : 
     1. .html (new)
     2. .htm (older)
 ----------------------------------------------
-Download VS Code extensions : 
+=> Download VS Code extensions : 
 - live Server (bottom+right Corner)
 - Live Preview (Top+right Corner)
+------------------------------------------
+=> Structure of HTML : 
+
+<!Doctype html>                                                         Version of HTML  (HTML 5)
+
+<html>                   (Root Element/Tag)                                 Starting Tag of HTML  (First Tag) 
+
+    <head>                                                                  Starting Tag of HEAD
+
+        <title>My First Webpage</title>
+ Starting Tag of Title      Ending Tag of Title
+
+    </head>                                                                  Ending Tag of HEAD
+
+    <body>                                                                  Starting Tag of BODY
+
+        Hello Everyone, <br><br> This is My First Webpage.
+
+    </body>                                                                  Ending Tag of BODY
+
+</html>                                                                  Ending Tag of HTML
 
 
+
+Title : File Heading(Webpage Heading)
+
+Head  : Hidden Content (Client)
+
+Body : Display Data (Client/User)
+
+-------------------------------------
+Note : 
+
+HTML : No Error Display
+
+
+
+How can i Check My HTML Code ? 
+------------------------------------
+Founder of HTML/Creator/Developer : 
+Tim Berner's Lee.
+
+
+Version : 
+
+HTML 1.0   -> 1991
+     1.1
+
+HTML 2.0   -> 1995
+
+
+HTML 3.0   -> Jan,1997
+
+HTML 4.0   -> Dec,1997
+            -> 2000
+
+HTML 5.0   -> 2014
+     5.2   -> 2017
